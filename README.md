@@ -10,9 +10,6 @@ Ini adalah repositori untuk trailer lagu kedua. sedang mencari lirik untuk reff 
 1. Fork repositori ini.
 2. Buat branch baru dengan nama yang sesuai dengan kontribusi Anda.
 3. Tambahkan lirik reff di file `lyrics.md`.
-4. Buka pull request untuk kami review.
+4. Buka pull request untuk di review.
 
 Terima kasih guys!
-# lagu-kedua
-# lagu-kedua
-# lagu-kedua
