@@ -1,5 +1,4 @@
 # trailer-lagu-kedua
-
 ## Judul Sementara
 "Lagu Kedua"
 
@@ -13,3 +12,5 @@ Ini adalah repositori untuk trailer lagu kedua. sedang mencari lirik untuk reff 
 4. Buka pull request untuk di review.
 
 Terima kasih guys!
+
+##NOTE : JUST FOR FUN!
